@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 👩‍💻 Final year CSE student at BTKIT, Uttarakhand  
+- 👩‍💻 Fresh CSE Graduate from BTKIT, Uttarakhand  
 - 🌱 Exploring: `Generative AI`, `LangChain`, `LLMs`, `Computer Vision`, `Streamlit`  
 - 🛠️ Passionate about building smart AI/ML tools that solve real-world problems  
 - 🤝 Actively contributing to open source via **GSSoC’25** and **Hacktoberfest’24**  
