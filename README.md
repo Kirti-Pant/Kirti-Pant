@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirti Pant</h1>
-<h3 align="center">AI/ML Enthusiast | GSSoC’25 Contributor | Hacktoberfest’25 Contributor |Hacktoberfest’24 Contributor </h3>
+<h3 align="center">AI/ML Enthusiast | GSSoC’25 Contributor | Hacktoberfest’25 Contributor | Hacktoberfest’24 Contributor </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F754B4&width=435&lines=Building+AI-powered+solutions.;Exploring+LLMs+%26+Vision+Models.;Contributing+to+GSSoC+2025+%F0%9F%92%BB;Hacktoberfest+Open+Source+Dev+%F0%9F%92%BE;Let%E2%80%99s+code+something+impactful!" alt="Typing SVG" />
